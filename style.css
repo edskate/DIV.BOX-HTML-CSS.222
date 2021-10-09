@@ -1,0 +1,34 @@
+body{
+    color: rgb(255, 255, 255);
+    font-size: larger;
+    text-shadow: 2px 3px 4px ;
+    margin: 150px;
+    padding: 10px;
+    box-shadow: 2px 3px 4px ;
+    width: 150px;
+    text-align: center;
+    background-color: black;
+}
+h1{
+    color: blue;
+}
+h2{
+    color: chartreuse;
+}
+h3{
+    color: darkmagenta;
+    font-size: larger;
+}
+.box1 {
+    color: crimson;
+}
+  .box2{
+      color: darkcyan;
+  }
+  .box3{
+      color: darkkhaki;
+  }
+  .box4{
+      color: darkturquoise;
+      
+  }
